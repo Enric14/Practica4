@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="InputLayout.Filled" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="android:maxLines">1</item>
+        <item name="backgroundTint">@color/bg_input_layout_filled</item>
+        <item name="android:textColor">@color/bg_input_layout_txt_filled</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.Tokio.InputLayout</item>
+    </style>
+
+    <style name="InputLayout.Filled2" parent="Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu">
+        <item name="android:maxLines">1</item>
+        <item name="backgroundTint">@color/bg_input_layout_filled</item>
+        <item name="android:textColor">@color/bg_input_layout_txt_filled</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.Tokio.InputLayout</item>
+    </style>
+</resources>

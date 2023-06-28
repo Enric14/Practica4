@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="main_name">¿Como te llamas?</string>
+    <string name="main_surname">¿Y tu apellido?</string>
+    <string name="main_age">¿Cuantos años tienes?</string>
+    <string name="btn_txt">Me apunto</string>
+    <string name="main_privacy_policy">Política de privacidad</string>
+    <string name="main_ver_condiciones">Ver Condiciones</string>
+    <string-array name="ages">
+        <item>0-5</item>
+        <item>6-11</item>
+        <item>12-17</item>
+        <item>18-99</item>
+    </string-array>
+
+</resources>

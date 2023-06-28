@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="appPractica4H1" format="reference"/>
+    <attr name="appPractica4H2" format="reference"/>
+    <attr name="appPractica4H3" format="reference"/>
+    <attr name="appPractica4H4" format="reference"/>
+    <attr name="appPractica4H5" format="reference"/>
+    <attr name="appPractica4S1" format="reference"/>
+    <attr name="appPractica4S2" format="reference"/>
+    <attr name="appPractica4B2" format="reference"/>
+    <attr name="appPractica4BtnFilled" format="reference"/>
+    <attr name="appPractica4BtnFilled2" format="reference"/>
+    <attr name="appPractica4ILFilled" format="reference"/>
+    <attr name="appPractica4ILFilled2" format="reference"/>
+
+</resources>
